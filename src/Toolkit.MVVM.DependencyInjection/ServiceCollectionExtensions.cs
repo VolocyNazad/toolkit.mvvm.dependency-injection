@@ -1,4 +1,5 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
+using MVVM.DependencyInjection.Infrastructure.Exceptions;
 using System.Windows.Controls;
 
 namespace MVVM.DependencyInjection;
